@@ -10,9 +10,9 @@ So I may make many bugs and cannot program according to standard. Sorry. :(
 - Itsuka Kotori :)
 - Maths, Physics, Computer Science...
 - LOL
-- Many music games
+- Many music games, including osu!std, Arcaea, Deemo, Cytus 1/2, Cytoid, osu!droid, Dynamix, ~~Phigros, Malody~~
 - Animations, light novels, ~~comics, galgames~~
-- Other games, such as COD, CS, RA2, Sdorica, ~~balance, MC, TouHou, I wanna~~
+- Other games, such as COD, CS, RA2, Sdorica, Genshin Impact, ~~balance, MC, TouHou, I wanna~~
 
 ### Languages
 - Python

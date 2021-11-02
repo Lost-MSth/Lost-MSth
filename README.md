@@ -21,6 +21,7 @@ So I may make many bugs and cannot program according to standard. Sorry. :(
 - Basic(VB, QB, FB)
 - SQL
 - ~~RenPy~~
+- ~~Mathematica~~
 
 
 ### Contact me

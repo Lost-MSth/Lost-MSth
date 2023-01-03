@@ -12,7 +12,7 @@ So I may make many bugs and cannot program according to standard. Sorry. :(
 - LOL, Sdorica, Genshin Impact
 - Many music games, including **osu!std**, Arcaea, Deemo, Cytus 1/2, Cytoid, osu!droid, Dynamix, ~~Malody~~
 - Animations, light novels, ~~comics, galgames~~
-- Other games, such as COD, CS, RA2, Date A Live Spirit Pledge, MC and song small RPGs
+- Other games, such as COD, CS, RA2, Date A Live Spirit Pledge, MC and some small games(RPG, SLG, ADV, ...)
 ### Languages
 - Python
 - Matlab

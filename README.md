@@ -11,33 +11,36 @@ So I may make many bugs and cannot program according to standard. Sorry. :(
 
 - Itsuka Kotori :)
 - Maths, Physics, Computer Science...
-- LOL, Sdorica, Genshin Impact, Honkai: Star Rail, Date A Live Spirit Pledge
-- Many music games, including **osu!std**, Arcaea, ~~Deemo, Cytus 1/2, Cytoid, osu!droid, Dynamix, Malody~~
+- LOL, Genshin Impact, Honkai: Star Rail, ZZZ, BH3, Sdorica
+- Many music games, including osu!std, ~~Arcaea, Deemo, Cytus 1/2, Cytoid, osu!droid, Dynamix, Malody~~
 - Animations, light novels, ~~comics, galgames~~
-- Other games played before, such as COD, CS, RA2, MC and some small games (RPG, SLG, ADV, ...)
+- Other games played before, such as COD, CS, RA2, MC and many small games (RPG, SLG, ADV, ...)
 
 ### Languages
 
 - *Skilled*
   - Python
 - *General*
+  - Cython
+  - C
   - MATLAB
   - SQL
   - RenPy
-  - Cython
-  - LaTeX
+  - JavaScript (Vue 3)
+  - $\LaTeX$
   - ~~Mathematica~~
 - *Able*
-  - C
+  - C++
+  - Julia
+  - Rust
   - Fortran
-  - JavaScript (Vue 3)
 - *Used previously*
   - Pascal (FP)
   - Basic (VB, QB, FB)
 
 ### Contact me
 
-Email: th84292@foxmail.com
+**Email**: <font face="Consolas">contact@lost-msth.cn</font>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lost-MSth&show_icons=true&theme=material-palenight)
 
